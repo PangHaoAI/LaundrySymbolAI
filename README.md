@@ -7,4 +7,4 @@ In more technical detail, we aim to train a neural network to recognize the wash
 
 We are a project group of college szut.de with the focus on android developement. All 6 members are undergoing education with key  course elements in software developement. Our project group leader already has some years of experience of professional android  developement. We have planned 18 weekly sprints, 10 to develope a prototype and 8 for any further optimization, testing and bugfixing until the  first of may.
 
-Since we are part of a low budgetized official school, it would be helpful, if Google could send us some loan units for developement.
+Since we are part of a low budgetized public school, it would be helpful, if Google could send us some loan units for developement.
